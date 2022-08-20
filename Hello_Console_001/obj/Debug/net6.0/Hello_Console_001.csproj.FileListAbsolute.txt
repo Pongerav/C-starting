@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\bin\Debug\net6.0\Hello_Console_001.exe
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\bin\Debug\net6.0\Hello_Console_001.deps.json
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\bin\Debug\net6.0\Hello_Console_001.runtimeconfig.json
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\bin\Debug\net6.0\Hello_Console_001.dll
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\bin\Debug\net6.0\Hello_Console_001.pdb
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.dll
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\refint\Hello_Console_001.dll
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.pdb
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\Hello_Console_001.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Учоба\GeekBrains\C# Education\Lection 1\Hello_Console_001\obj\Debug\net6.0\ref\Hello_Console_001.dll
